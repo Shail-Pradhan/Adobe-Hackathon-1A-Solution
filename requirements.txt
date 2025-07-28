@@ -1,0 +1,5 @@
+--only-binary :all:
+pymupdf==1.23.6
+pytesseract==0.3.10
+numpy>=2.0.0
+jsonschema==4.17.3
